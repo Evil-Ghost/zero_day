@@ -56,11 +56,9 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 
 ## My process
 
-### Built with
-
-
 ### What I learned
 
+I learnt about virtual machine, what they mean and how to use them and at the same time I learnt about vagrant and how it works hand in hand with the virtual machine.
 
 ## Author
 
@@ -69,6 +67,7 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 
 ## Acknowledgements
 
+It goes to God Almighty
 
 ## Credits
 
